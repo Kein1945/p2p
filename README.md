@@ -1,2 +1,1 @@
-p2p
-===
+Simple testing p2p network over jsonrpc
